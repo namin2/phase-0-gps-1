@@ -24,8 +24,9 @@ Lists branches
 
 *Italics*
 **Bold**
-        THis is the code block
-        print
+
+    This is the code block
+    print
 
 
 <http://www.google.com>
