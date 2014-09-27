@@ -31,4 +31,8 @@ Lists branches
 
 <http://www.google.com>
 
+<<<<<<< HEAD
 something different
+=======
+conflictconflictconflictconflictconflictconflictconflictconflictconflictconflict
+>>>>>>> small-conflict
