@@ -24,15 +24,10 @@ Lists branches
 
 *Italics*
 **Bold**
-
+q
     This is the code block
     print
 
 
 <http://www.google.com>
 
-<<<<<<< HEAD
-something different
-=======
-conflictconflictconflictconflictconflictconflictconflictconflictconflictconflict
->>>>>>> small-conflict
